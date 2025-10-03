@@ -56,3 +56,12 @@ The project is organized into a modular structure for better readability and mai
 5. If using a **Priority** or **Round Robin** algorithm, the relevant input fields will appear. Fill them in.
 6. Click the **"Calculate"** button.
 7. The results table and the Gantt chart will be displayed below.
+
+## Contributors
+
+This project was a collaborative effort by:
+
+* **Samrudhi B** - [Elysian0987](https://github.com/Elysian0987)
+* **Mohit Ruwatia** - [mon4our](https://github.com/mon4our)
+* **Jai Ranpara** - [Z3phyr-21](https://github.com/Z3phyr-21)
+* **Rajvardhan Singh** - [yuvi-dot](https://github.com/yuvi-dot)
